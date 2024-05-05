@@ -1,4 +1,4 @@
-# battle-paper
+# Battle Paper
 
 Paper Terrain for 15mm, Team Yankee and FoW Tables.
 
